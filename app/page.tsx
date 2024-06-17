@@ -53,7 +53,7 @@ export default function App() {
         </li>)}
       </ul> 
       <div>
-        🥳 App successfully hosted. Try creating a new todo.
+        🥳 App successfully hosted. Try creating a new todo!
         <br />
         <a href="https://docs.amplify.aws/nextjs/start/quickstart/nextjs-app-router-client-components/">Review next step of this tutorial.</a>
       </div>
